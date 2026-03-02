@@ -6,7 +6,7 @@
     </work>
   <identification>
     <creator type="composer">Claudio Monteverdi</creator>
-    <rights>Minor edits to the transcription by Vincent Carpentier publioshed at https://www.cpdl.org/wiki/index.php/O_rossignuol_ch%27in_queste_verdi_fronde_(Claudio_Monteverdi)</rights>
+    <rights>Minor edits to the transcription by Vincent Carpentier published at https://www.cpdl.org/wiki/index.php/O_rossignuol_ch%27in_queste_verdi_fronde_(Claudio_Monteverdi)</rights>
     <encoding>
       <software>MuseScore 3.6.2</software>
       <encoding-date>2026-03-02</encoding-date>
@@ -37,7 +37,7 @@
     </defaults>
   <credit page="1">
     <credit-type>rights</credit-type>
-    <credit-words default-x="496.001" default-y="0" justify="center" valign="bottom">Minor edits to the transcription by Vincent Carpentier publioshed at https://www.cpdl.org/wiki/index.php/O_rossignuol_ch%27in_queste_verdi_fronde_(Claudio_Monteverdi)</credit-words>
+    <credit-words default-x="496.001" default-y="0" justify="center" valign="bottom">Minor edits to the transcription by Vincent Carpentier published at https://www.cpdl.org/wiki/index.php/O_rossignuol_ch%27in_queste_verdi_fronde_(Claudio_Monteverdi)</credit-words>
     </credit>
   <part-list>
     <part-group type="start" number="1">

@@ -13,7 +13,7 @@
          <pubStmt xml:id="pekqlyz">
             <date isodate="2026-03-02" type="encoding-date">2026-03-02</date>
             <availability>
-               <distributor>Minor edits to the transcription by Vincent Carpentier publioshed at https://www.cpdl.org/wiki/index.php/O_rossignuol_ch%27in_queste_verdi_fronde_(Claudio_Monteverdi)</distributor>
+               <distributor>Minor edits to the transcription by Vincent Carpentier published at https://www.cpdl.org/wiki/index.php/O_rossignuol_ch%27in_queste_verdi_fronde_(Claudio_Monteverdi)</distributor>
             </availability>
          </pubStmt>
       </fileDesc>
@@ -31,9 +31,6 @@
          <mdiv xml:id="a19ckfs5">
             <score xml:id="bhbr30w">
                <scoreDef xml:id="c1b26am">
-                  <pgHead xml:id="g19k3n8d" func="first">
-                     <rend xml:id="et76o6c" halign="center" valign="bottom">Minor edits to the transcription by Vincent Carpentier publioshed at https://www.cpdl.org/wiki/index.php/O_rossignuol_ch%27in_queste_verdi_fronde_(Claudio_Monteverdi)</rend>
-                  </pgHead>
                   <staffGrp xml:id="hbtcq0l">
                      <staffGrp xml:id="i1s43ftz">
                         <grpSym xml:id="j1eypwjo" symbol="bracket" />
