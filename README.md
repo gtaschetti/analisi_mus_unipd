@@ -37,9 +37,6 @@ Loads a MusicXML score and produces two interactive Plotly charts:
 
 Additional data extracted per event: notes, durations, lyrics, and cadences (type, tone, CVFs).
 
-**To use with a different piece**, change the `filename` variable in the *Caricamento della composizione* cell to point to any `.xml` file in `Music_Files/`.
-
----
 
 ## Music files
 
