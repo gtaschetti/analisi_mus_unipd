@@ -18,7 +18,7 @@ Music analysis is performed with [crim-intervals](https://github.com/HCDigitalSc
 
 The repository contains Jupyter notebooks for music analysis and a `Music_Files/` folder with scores in **MusicXML** (`.xml`) and **MEI** (`.mei`) format.
 
-Each notebook loads one or more files from `Music_Files/` and performs analysis using the crim-intervals library (https://github.com/HCDigitalScholarship/intervals/). To use a different score, place it in `Music_Files/` and update the `filename` variable in the notebook.
+Each notebook loads one or more files from `Music_Files/` and performs analysis using the [crim-intervals]. To use a different score, place it in `Music_Files/` and update the `filename` variable in the notebook.
 
 ---
 
