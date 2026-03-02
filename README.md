@@ -14,33 +14,11 @@ Music analysis is performed with [crim-intervals](https://github.com/HCDigitalSc
 
 ---
 
-## Repository structure
+## Contents
 
-```
-analisi_mus_unipd/
-├── Music_Files/                  # MusicXML scores (.xml)
-│   └── Marenzio_o_voi.xml
-├── Densita_polifonica_ver_02.ipynb
-└── README.md
-```
+The repository contains Jupyter notebooks for music analysis and a `Music_Files/` folder with scores in **MusicXML** (`.xml`) and **MEI** (`.mei`) format.
 
----
-
-## Notebooks
-
-### `Densita_polifonica_ver_02.ipynb` — Polyphonic density analysis
-
-Loads a MusicXML score and produces two interactive Plotly charts:
-
-- **Voice activity** — horizontal bar chart showing when each voice is active, with a measure ruler and cadence markers overlaid
-- **Sounding voices** — bar chart of the number of simultaneously active voices over the course of the piece
-
-Additional data extracted per event: notes, durations, lyrics, and cadences (type, tone, CVFs).
-
-
-## Music files
-
-Scores are in **MusicXML** format (`.xml`). Place any additional file in the `Music_Files/` folder and update the `filename` variable in the notebook accordingly.
+Each notebook loads one or more files from `Music_Files/` and performs analysis using the crim-intervals library (https://github.com/HCDigitalScholarship/intervals/). To use a different score, place it in `Music_Files/` and update the `filename` variable in the notebook.
 
 ---
 
