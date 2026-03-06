@@ -1,0 +1,6 @@
+# Claude Code — never push to GitHub
+.claude/
+CLAUDE.md
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
