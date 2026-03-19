@@ -37,12 +37,12 @@ The MEI files in `Music_Files/` with prefix `M_04_6_` and `M_06_5_` come from th
 [marenzio.org](http://www.marenzio.org) and on GitHub at
 [github.com/marenzio/marenzio.github.io](https://github.com/marenzio/marenzio.github.io).
 
-### Book IV for 6 voices (`M_04_6_*`, 15 madrigals)
+### Book IV for 6 voices (`M_04_6_*`, 15 files)
 
 > Luca Marenzio, *Il quarto libro de' madrigali a sei voci*, edited by Lucia Marchi,
 > [MODE – Marenzio Online Digital Edition](https://marenzio.org/digital-edition/M-04-6.xhtml), 2024.
 
-### Book VI for 5 voices (`M_06_5_*`, 17 madrigals)
+### Book VI for 5 voices (`M_06_5_*`, 17 files)
 
 > Luca Marenzio, *Il sesto libro de madrigali a cinque voci*, edited by Daniele Filippi,
 > [MODE – Marenzio Online Digital Edition](https://marenzio.org/digital-edition/M-06-5.xhtml), 2019.
