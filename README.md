@@ -26,7 +26,7 @@ Each notebook loads one or more files from `Music_Files/` and performs analysis 
 |----------|-------------|
 | `densita_polifonica_01_base.ipynb` | Minimal polyphonic density analysis with a static bar chart |
 | `densita_polifonica_02_avanzato.ipynb` | Full analysis: notes, cadences, lyrics, interactive Plotly charts |
-| `estensioni_vocali.ipynb` | Voice range analysis for the Marenzio corpus (Libro IV a 6v, Libro VI a 5v) |
+| `estensioni_vocali_01_Marenzio.ipynb` | Voice range analysis for the Marenzio corpus (Libro IV a 6v, Libro VI a 5v) |
 
 ---
 
