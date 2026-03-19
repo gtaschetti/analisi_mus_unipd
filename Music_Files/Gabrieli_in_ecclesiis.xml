@@ -45,7 +45,7 @@
       <group-symbol>bracket</group-symbol>
       </part-group>
     <score-part id="P1">
-      <part-name>Soprano I</part-name>
+      <part-name>Canto I</part-name>
       <part-abbreviation>S1</part-abbreviation>
       <score-instrument id="P1-I1">
         <instrument-name>Choir Aahs</instrument-name>
@@ -105,7 +105,7 @@
       <group-symbol>bracket</group-symbol>
       </part-group>
     <score-part id="P5">
-      <part-name>Soprano II</part-name>
+      <part-name>Canto II</part-name>
       <part-abbreviation>S2</part-abbreviation>
       <score-instrument id="P5-I1">
         <instrument-name>Choir Aahs</instrument-name>

@@ -1,2 +1,16 @@
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+# crim-intervals source repo (reference copy, not part of the course)
+intervals-main/
+
+# crim-intervals streamlit app (reference copy, not part of the course)
+intervals-streamlit-main/
+
+# Local notes / bug reports (not part of course material)
+music21_mei_bug_report.md
+crim_intervals_bug_report.md
+output.txt
+
+# MEI download and sanitisation script (local utility, not course material)
+scarica_marenzio.py
