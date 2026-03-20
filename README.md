@@ -53,7 +53,7 @@ The original files were downloaded from MODE and prepared for use with the libra
 
 1. Removal of the UTF-8 BOM, if present.
 2. Expansion of empty `<syl/>` elements to resolve an incompatibility with `music21`.
-3. Injection of the title text into an empty `<title/>` element (Book VI only), to resolve an incompatibility with `crim-intervals`.
+3. Injection of the title text into an empty `<title/>` element (Book VI only), for better compatibility with `crim-intervals`.
 4. Addition of a `label=` attribute to `<staffDef>` elements, copied from the child `<label>` element: `crim-intervals` reads the attribute, not the child.
 5. Propagation of `label=` from labelled `<staffDef>` elements to any unlabelled ones sharing the same staff number (Book IV only, where a second group of `<staffDef>` elements encodes the original chiavette clefs without labels).
 6. Addition of an `<instrDef midi.instrnum="0" />` child to each `<staffDef>` that lacks one (Book IV only): without it, `music21` cannot resolve voice names such as *Quinto* and *Sesto* through its instrument database, and `crim-intervals` falls back to generic `Part-N` column names.
