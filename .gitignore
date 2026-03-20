@@ -1,19 +1,8 @@
-# Jupyter checkpoints
 .ipynb_checkpoints/
-
-# crim-intervals source repo (reference copy, not part of the course)
-intervals-main/
-
-# crim-intervals streamlit app (reference copy, not part of the course)
-intervals-streamlit-main/
-
-# Python cache
 __pycache__/
 *.pyc
 *.pyo
 *.pyd
-
-# OS and editor junk
 .DS_Store
 Thumbs.db
 desktop.ini
