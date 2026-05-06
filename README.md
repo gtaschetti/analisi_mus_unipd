@@ -18,7 +18,7 @@ Music analysis is performed with [crim-intervals](https://github.com/HCDigitalSc
 
 The repository contains Jupyter notebooks for music analysis and a `Music_Files/` folder with scores in **MusicXML** (`.xml`) and **MEI** (`.mei`) format.
 
-Each notebook loads one or more files from `Music_Files/` and performs analysis using crim-intervals. To use a different score, place it in `Music_Files/` and update the `filename` variable in the notebook.
+Most notebooks load files from `Music_Files/`; to use a different score, place it there and update the `filename` variable. `veni_sponsa_mappe_2026.ipynb` loads scores directly from the CRIM Project server and requires an internet connection.
 
 ### Notebooks
 
@@ -27,6 +27,7 @@ Each notebook loads one or more files from `Music_Files/` and performs analysis 
 | `densita_polifonica_01_base.ipynb` | Minimal polyphonic density analysis with a static bar chart |
 | `densita_polifonica_02_avanzato.ipynb` | Full analysis: notes, cadences, lyrics, interactive Plotly charts |
 | `ambito_voci_01_Marenzio.ipynb` | Voice range analysis for the Marenzio corpus (Libro IV a 6v, Libro VI a 5v) |
+| `veni_sponsa_mappe_2026.ipynb` | Melodic subject search across *Veni sponsa Christi* (motet) and *Missa Veni sponsa Christi* (5 movements) by Palestrina; n-gram heatmaps, entries maps, audio playback, and score inspection via Verovio |
 
 ---
 
