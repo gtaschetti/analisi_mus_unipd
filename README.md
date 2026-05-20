@@ -18,16 +18,17 @@ Music analysis is performed with [crim-intervals](https://github.com/HCDigitalSc
 
 The repository contains Jupyter notebooks for music analysis and a `Music_Files/` folder with scores in **MusicXML** (`.xml`) and **MEI** (`.mei`) format.
 
-Most notebooks load files from `Music_Files/`; to use a different score, place it there and update the `filename` variable. `veni_sponsa_mappe_2026.ipynb` loads scores directly from the CRIM Project server and requires an internet connection.
+Most notebooks load files from `Music_Files/`; to use a different score, place it there and update the `filename` variable. The two *Veni sponsa* notebooks load scores directly from the [CRIM Project](https://crimproject.org/) server and require an internet connection.
 
 ### Notebooks
 
 | Notebook | Description |
 |----------|-------------|
-| `densita_polifonica_01_base.ipynb` | Minimal polyphonic density analysis with a static bar chart |
+| `densita_polifonica_01_base.ipynb` | Polyphonic density analysis: sounding voices chart and time-weighted distribution for a single score, plus corpus comparison with summary table and colour heatmap |
 | `densita_polifonica_02_avanzato.ipynb` | Full analysis: notes, cadences, lyrics, interactive Plotly charts |
-| `ambito_voci_01_Marenzio.ipynb` | Voice range analysis for the Marenzio corpus (Libro IV a 6v, Libro VI a 5v) |
+| `ambito_voci_01_Marenzio.ipynb` | Voice range analysis for the Marenzio corpus (Libro IV a 6v, Libro VI a 5v); corpus lists include a Palestrina *Veni sponsa* option via CRIM |
 | `veni_sponsa_mappe_2026.ipynb` | Melodic subject search across *Veni sponsa Christi* (motet) and *Missa Veni sponsa Christi* (5 movements) by Palestrina; n-gram heatmaps, entries maps, audio playback, and score inspection via Verovio |
+| `veni_sponsa_cad_omorit_presTypes_2026.ipynb` | Cadences, homorhythmic passages and presentation types across *Veni sponsa Christi* and *Missa Veni sponsa Christi* by Palestrina; links to score examples in the CRIM Project viewer |
 
 ---
 
@@ -65,4 +66,3 @@ The original files were downloaded from MODE and prepared for use with the libra
 ## License
 
 This work is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
-You are free to share and adapt the material for any purpose, provided appropriate credit is given.
